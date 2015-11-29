@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR blue][I][B]--- 20-11-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 20-11-2015--[/COLOR]
+
+#EXTINF:-1,[I][B][COLOR orange]-- Temporary Channels --[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+[COLOR red]temporary offline[/COLOR]
+
+[COLOR green]online[/COLOR]
+
+#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [I][B]ITV 1[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/645.m3u8
+#EXTINF:-1, [I][B]ITV 2[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/644.m3u8
+#EXTINF:-1, [I][B]ITV 3[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/643.m3u8
+#EXTINF:-1, [I][B]ITV 4[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/641.m3u8
+
+#EXTINF:-1, [I][B]London Live[/B][/I]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1, [I][B]E4 +1[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/89
+
+#EXTINF:-1, [I][B]Dave[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/90
+
+#EXTINF:-1, [I][B]Challenge[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/91
+
+#EXTINF:-1, [I][B]Pick[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/92
+
+#EXTINF:-1, [I][B]Really[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/74
+
+#EXTINF:-1, [I][B]TruTV[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/76
+
+#EXTINF:-1, [I][B]TBN UK[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/77
+
+#EXTINF:-1, [I][B]Food Network[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/78
+
+#EXTINF:-1, [I][B]Create and Craft[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/66
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- KIDS ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B]Boomerang[/B][/I]
+http://212.200.101.3:5000/udp/237.0.0.43:5000
+
+#EXTINF:-1, [I][B]TinyPop[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/72
+
+#EXTINF:-1,[I][B][COLOR yellow]--- MOVIES / TV SHOWS ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B]Fox[/B][/I]
+http://212.200.101.3:5000/udp/237.0.0.47:5000
+#EXTINF:-1,[I][B]Fox Crime[/B][/I]
+http://212.200.101.3:5000/udp/237.0.0.48:5000
+#EXTINF:-1,[I][B]Fox Life[/B][/I]
+http://212.200.101.3:5000/udp/237.0.0.49:5000
+#EXTINF:-1,[I][B]AMC[/B][/I]
+http://212.200.101.3:5000/udp/237.0.0.50:5000
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/875.png", [I][B]Syfy[/B][/I]
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+
+#EXTINF:-1, [I][B]Movie Mix Christmas[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/70
+
+#EXTINF:-1, [I][B]Movies4Men[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/71
+
+#EXTINF:-1, [I][B]HBO Plus EN[/B][/I]
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/8554.jpg", [I][B]Sci-Fi Series and Movies[/B][/I]
+http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- 24/7 ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [I][B]South Park - Uncensored[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+
+#EXTINF:-1, [I][B]Simpsons[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+
+#EXTINF:-1, [I][B]King of the Hill[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- SPORT ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, SkySport 1
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:-1, SkySport 2
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:-1, SkySport 3
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:-1, SkySport 4
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:-1, SkySport 5
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+#EXTINF:-1, SkySport F1
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+#EXTINF:-1, BT Sport 1
+http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8
+#EXTINF:-1, BT Sport 2
+http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://195.154.226.186:1935/livepp7/bein1frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
+#EXTINF:-1, ESPN UK
+http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+#EXTINF:-1, Premier sports
+http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
+#EXTINF:-1, Fight Network HD
+http://212.200.101.3:5000/udp/237.0.0.60:5000
+#EXTINF:-1, Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- DOCUMENTARY ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png", Nat Geo Wild (some buffer)
+http://top-iptv.zapto.org:8000/live/adem/adem/559.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
+http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://i.imgur.com/8i73Fnl.jpg", RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", UFO Channel
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/102.png", World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6677.jpg", [I][B]At The Drive-In[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+
+#EXTINF:-1,[I][B][COLOR yellow]--- MUSIC ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1, Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- NEWS ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [I][B]Sky News[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/93
